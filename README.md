@@ -13,10 +13,10 @@ Once it ends, you can run it again to add more users, remove some of them or eve
 ### I want to run my own VPN but don't have a server for that
 You can get a little VPS for just $2.99/month at [Bandwagon Host](https://bandwagonhost.com/aff.php?aff=575&pid=43).
 
-<<<<<<< HEAD
-main repo  https://github.com/Nyr/openvpn-install  i just fork so i have it handy 
+
+main repo  https://github.com/Nyr/openvpn-install  i just fork so i have it handy add all the stuff down here is the one made it  
 =======
-### Donations
+### Donations go to Nyr the owner  not me   
 
 If you want to show your appreciation, you can donate via [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VBAYDL34Z7J6L) or [Bitcoin](https://pastebin.com/raw/M2JJpQpC). Thanks!
 >>>>>>> 0397827abed7f7ea339409e35dd4191df035cbfb
